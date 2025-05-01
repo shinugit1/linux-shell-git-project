@@ -1,6 +1,7 @@
 #!/bin/bash
 # Script to create a new user
 
+
 # Ask for the username
 read -p "Enter the username to create: " username
 
